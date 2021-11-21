@@ -22,7 +22,7 @@ I am interested in control design of group robots, collective behavior of swarm 
 
 2021/4~ Project Assistant Professor
 
-- **e-mail:** [y.tsunoda(at)mech.eng.osaka-u.ac.jp](<y.tsunoda(at)mech.eng.osaka-u.ac.jp>)
+- **e-mail:** [y.tsunoda(at)mech.eng.osaka-u.ac.jp](<y.tsunoda@mech.eng.osaka-u.ac.jp>)
 
 ### Links
 - [Google Scholar Citations](https://scholar.google.com/citations?user=B0cOaRQAAAAJ&hl=ja)
