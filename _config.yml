@@ -12,7 +12,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yusuke Tsunoda"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
