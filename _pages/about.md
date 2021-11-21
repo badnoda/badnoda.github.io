@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 I am a Project Assistant Professor in [Dynamics Systems Cotnrol Laboratory](https://www-dsc-mech.eng.osaka-u.ac.jp/) at Osaka University.
-
 I am interested in control design of group robots, collective behavior of swarm system, and rescue robot for unkown environment.
 
 ### Personal information
@@ -16,13 +15,12 @@ I am interested in control design of group robots, collective behavior of swarm 
 - **Birth year & place:** 1992, Kumamoto, Japan
 
 - **Affiliation:**
-2018/04~2019/03  Ph.D course in Dynamical Systems Control Laboratory, Dept. of Mechanical Engineering, Graduate School of Engineering, Osaka University, Japan
-
-2019/04~2021/03  JSPS Research Fellow DC2
-
-2021/4~ Project Assistant Professor
+ - 2018/04~2019/03  Ph.D course in Dynamical Systems Control Laboratory, Dept. of Mechanical Engineering, Graduate School of Engineering, Osaka University, Japan
+ - 2019/04~2021/03  JSPS Research Fellow DC2
+ - 2021/4~ Project Assistant Professor
 
 - **e-mail:** [y.tsunoda(at)mech.eng.osaka-u.ac.jp](<y.tsunoda@mech.eng.osaka-u.ac.jp>)
+[メールを送る](mailto:y.tsunoda@mech.eng.osaka-u.ac.jp)
 
 ### Links
 - [Google Scholar Citations](https://scholar.google.com/citations?user=B0cOaRQAAAAJ&hl=ja)
