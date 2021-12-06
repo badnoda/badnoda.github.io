@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 職歴
 ======
 * 2021/04〜　大阪大学大学院工学研究科機械工学専攻 特任助教
