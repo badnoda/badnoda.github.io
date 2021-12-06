@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-
-
 職歴
 ======
-
+2021/04〜　大阪大学大学院工学研究科機械工学専攻 特任助教
 
 学歴
 ======
+2016/04〜2018/03 大阪大学大学院工学研究科機械工学専攻　修士課程
+2018/04〜2021/03 大阪大学大学院工学研究科機械工学専攻　博士課程
 
 業績
 ======
@@ -27,7 +27,7 @@ redirect_from:
  * 角田 祐輔, 末岡 裕一郎, 和田 光代, 大須賀 公一: “牧羊犬のヒツジ追い現象に着想を得たエージェント群の機動制御法の理論解析”, 計測自動制御学会論文集, Vo. 55. No. 8, pp.507-515, 2019 (https://doi.org/10.9746/sicetr.55.507).
  * 角田 祐輔, 末岡 裕一郎, 和田 光代, 大須賀 公一: “シープドッグシステムに学ぶエージェント群の機動制御則の設計法と実機検証”, システム制御情報学会論文誌,  第34巻, 第7号.
 
-* 共著論文(全て査読あり)
+共著論文(全て査読あり)
 
  * Yuichiro Sueoka, Yusuke Tsunoda, Koichi Osuka: “Manipulation of the entire group navigation based on dynamic goal-preference switching”, Artificial Life and Robotics, Vol. 24, No. 1, pp. 88-93, 2019.
 
@@ -35,11 +35,11 @@ redirect_from:
 
  * 末岡 裕一郎, Dang Duy Khanh, 角田 祐輔, 杉本 靖博, 大須賀 公一: “障害物との相互作用を活用した音場によるロボットナビゲーションの解析と実機検証”，日本機械学会論文集, Vol. 87, No. 896, p. 20-00280, 2021.
 
-* 解説記事
+解説記事
 
  * 末岡 裕一郎，角田 祐輔: “シープドッグシステムから紐解くマルチエージェントシステムの制御”, 計測と制御, Vol. 59, No 2, pp.125-130 , 2020 (https://doi.org/10.11499/sicejl.59.125).
 
-* 国際学会(筆頭)(全て査読あり)
+国際学会(筆頭)(全て査読あり)
  * Yusuke Tsunoda, Yuichiro Sueoka, Koichi Osuka: “On statistical analysis for shepherd guidance system”, Proc. of IEEE International Conference on Robotics and Biomimetics (ROBIO2017), 2017.
 
  * Yusuke Tsunoda, Makihiko Ishitani, Yuichiro Sueoka, Koichi Osuka : “Analysis of sheepdog-type navigation for a sheep model with dynamics”, In The Twenty-Fourth International Symposium on Articial Life and Robotics (AROB 24th 2019), pp. 499-503, 2019.
@@ -53,7 +53,7 @@ redirect_from:
  * Yusuke Tsunoda, Mitsuki Okada, Yuichiro Sueoka, Koichi Osuka : “Proposal of minimal approach on swarm navigation with heterogeneity”, Dars-Swarm 2021, pp.130-133, 2021 (査読有).
 
 
-* 国内学会(筆頭)(全て査読なし)
+国内学会(筆頭)(全て査読なし)
 
  * 角田 祐輔，末岡 裕一郎，近藤 鈴華，杉本 靖博，大須賀 公一: ““Mi-Nashi” Localizationにおける位置情報のゆらぎが与える影響の解析”, 第16回計測自動制御学会システムインテグレーション部門講演会（SI2015）, pp. 67-68, 2015.
 
@@ -73,7 +73,7 @@ redirect_from:
 
  * 角田祐輔，大須賀公一：“水を喰らって自己の構造体にする対河道閉塞用水排除ロボット i-Centipot-Aqua の提案 - (第一報) 水を体内に取り込むことで身体を形成し遊泳機能を発現する自律移動ロボットの開発-”,  第22回計測自動制御学会システムインテグレーション部門講演会(SI2021で発表予定), 2021．
  
-* 国際学会(共著)(全て査読あり)
+国際学会(共著)(全て査読あり)
 
  * Yasuhiro Sugimoto, Yuichiro Sueoka, Takaki Okamoto, Yusuke Tsunoda, Yuto Sato, Kazuma Nakanishi, Ryosuke Takahashi, Yuki Takagi, Yuki, Minami, Koichi Osuka: “Walking and Swarming robots based on Implicit Control Law”, Proc. of the 8th International Symposium on Adaptive Motion of Animals and Machines (AMAM2017), D12, 2017.
 
@@ -81,7 +81,7 @@ redirect_from:
 
  * Yuichiro Sueoka, Teppei Senda, Yusuke Tsunoda, and Koichi Osuka : “Design of an experimental platform to control simple swarm robots from environmental stimuli.”, Dars-Swarm 2021, pp.126-129, 2021 (査読有).
 
-* 国内学会(共著) (全て査読なし)
+国内学会(共著) (全て査読なし)
 
  * 近藤 鈴華，末岡 裕一郎，角田 祐輔，杉本 靖博，大須賀 公一: “RSSI場に基づく群れの行動制御の基礎実験”, 平成27年度計測自動制御学会関西支部・システム制御情報学会若手研究発表会, pp. 115-116, 2016.
 
@@ -103,7 +103,7 @@ redirect_from:
 
  * 大須賀公一，角田祐輔，肖 潤澤: “対河道閉塞用ポンプシステムi-CentiPot-Hoseの提案”，第22回計測自動制御学会システムインテグレーション部門講演会(SI2021), 2021. 
 
-* 受賞リスト
+受賞リスト
 
  * 計測自動制御学会第23回創発システム・シンポジウム 最優秀講演賞，
    角田 祐輔， 2017年9月．
@@ -126,7 +126,7 @@ redirect_from:
  * 一般社団法人 システム制御情報学会 2021年度学会賞「奨励賞」，2021年3月
 
 
-* 外部資金など
+外部資金など
 
  * 平成31年度(2019年度)採用分日本学術振興会 特別研究員(DC2)
    プロジェクト名 : 牧羊犬のヒツジ追い現象に着想を得た機動制御法の創成, 代表 : 角田祐輔
@@ -134,14 +134,14 @@ redirect_from:
  * ECR Company of Biologists grant for AMAM 2019, Lausanne, 2019.
 
 
-* 教育活動
+教育活動
  * 大阪大学工学部応用理工学科の講義 「動的システムのモデリングと制御」のコア演習の ① : ティーチングアシスタント(TA), 2017年前期, ② : ティーチングフェロー(TF)，2018年前期．
 
  * 大阪大学工学部応用理工学科の講義 「動的システムのモデリングと制御」のコア実験のティーチングフェロー(TF)，2019年前期．
 
  * 大阪大学工学部応用理工学科の実習 「機械創成工学実習III」のティーチングアシスタント(TA)，2017年後期・2018年後期・2019年後期・2020年後期．
 
-* 顕著な活動実績
+顕著な活動実績
  * 高校生向けの研究活活動体験プログラムである大阪大学SEEDSプログラムに3回アシスタントとして参加(https://www.seeds.osaka-u.ac.jp)．
 
  * 大阪大学まちかね祭2019の出典 : RoboCafeにて一般の方々向けに
