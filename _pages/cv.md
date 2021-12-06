@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "角田祐輔"
+title: "角田祐輔 (Yusuke Tsunoda)"
 permalink: /cv/
 author_profile: true
 redirect_from:
