@@ -20,7 +20,7 @@ redirect_from:
 
 業績
 ======
-* 筆頭著者論文(全て査読あり)
+筆頭著者論文(全て査読あり)
 
  * Yusuke Tsunoda, Yuichiro Sueoka, Yuto Sato, Koichi Osuka: “Analysis of Local-camera based Shepherding Navigation”, Advanced Robotics, Vol. 32. No. 23, pp. 1217-1228, 2018 (https://doi.org/10.1080/01691864.2018.1539410).
  * Yusuke Tsunoda, Yuichiro Sueoka, Koichi Osuka: “Experimental Analysis of Acoustic Field Control-based Robot Navigation”, Journal of Robotics and Mechatronics, Vol. 31, No. 1, pp.110-117, 2019 (doi: 10.20965/jrm.2019.p0110).
