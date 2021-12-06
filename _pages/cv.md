@@ -10,6 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
+職歴
+======
+
+学歴
+======
+
+業績
+======
+
 
 <!-- Education
 ======
