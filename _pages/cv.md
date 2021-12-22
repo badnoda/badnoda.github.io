@@ -25,9 +25,9 @@ redirect_from:
 **筆頭著者論文(全て査読あり)**
 
  * Yusuke Tsunoda, Yuichiro Sueoka, Yuto Sato, Koichi Osuka: “Analysis of Local-camera based Shepherding Navigation”, Advanced Robotics, Vol. 32. No. 23, pp. 1217-1228, 2018 [https://doi.org/10.1080/01691864.2018.1539410](https://doi.org/10.1080/01691864.2018.1539410).
- * Yusuke Tsunoda, Yuichiro Sueoka, Koichi Osuka: “Experimental Analysis of Acoustic Field Control-based Robot Navigation”, Journal of Robotics and Mechatronics, Vol. 31, No. 1, pp.110-117, 2019 (doi: 10.20965/jrm.2019.p0110).
- * 角田 祐輔, 末岡 裕一郎, 和田 光代, 大須賀 公一: “牧羊犬のヒツジ追い現象に着想を得たエージェント群の機動制御法の理論解析”, 計測自動制御学会論文集, Vo. 55. No. 8, pp.507-515, 2019 (https://doi.org/10.9746/sicetr.55.507).
- * 角田 祐輔, 末岡 裕一郎, 和田 光代, 大須賀 公一: “シープドッグシステムに学ぶエージェント群の機動制御則の設計法と実機検証”, システム制御情報学会論文誌,  第34巻, 第7号.
+ * Yusuke Tsunoda, Yuichiro Sueoka, Koichi Osuka: “Experimental Analysis of Acoustic Field Control-based Robot Navigation”, Journal of Robotics and Mechatronics, Vol. 31, No. 1, pp.110-117, 2019 (doi: 10.20965/jrm.2019.p0110) [https://www.fujipress.jp/jrm/rb/robot003100010110/](https://www.fujipress.jp/jrm/rb/robot003100010110/).
+ * 角田 祐輔, 末岡 裕一郎, 和田 光代, 大須賀 公一: “牧羊犬のヒツジ追い現象に着想を得たエージェント群の機動制御法の理論解析”, 計測自動制御学会論文集, Vo. 55. No. 8, pp.507-515, 2019 [https://doi.org/10.9746/sicetr.55.507](https://doi.org/10.9746/sicetr.55.507).
+ * 角田 祐輔, 末岡 裕一郎, 和田 光代, 大須賀 公一: “シープドッグシステムに学ぶエージェント群の機動制御則の設計法と実機検証”, システム制御情報学会論文誌,  第34巻, 第7号 [https://www.jstage.jst.go.jp/article/iscie/34/7/34_191/_article/-char/ja/](https://www.jstage.jst.go.jp/article/iscie/34/7/34_191/_article/-char/ja/).
 
 **共著論文(全て査読あり)**
 
