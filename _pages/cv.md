@@ -47,7 +47,7 @@ redirect_from:
 
  * Yusuke Tsunoda, Makihiko Ishitani, Yuichiro Sueoka, Koichi Osuka : “Analysis of sheepdog-type navigation for a sheep model with dynamics”, In The Twenty-Fourth International Symposium on Articial Life and Robotics (AROB 24th 2019), pp. 499-503, 2019.
 
- * Yusuke Tsunoda, Yuichiro Sueoka, Koichi Osuka: “Exploration of sheepdog controller for sheep flock navigation based on the model derived from a real shepherding”, AMAM 2019, 2019 (https://doi.org/10.5075/epfl-BIOROB-AMAM2019-56).
+ * Yusuke Tsunoda, Yuichiro Sueoka, Koichi Osuka: “Exploration of sheepdog controller for sheep flock navigation based on the model derived from a real shepherding”, AMAM 2019, 2019 [https://doi.org/10.5075/epfl-BIOROB-AMAM2019-56](https://doi.org/10.5075/epfl-BIOROB-AMAM2019-56).
 
  * Yusuke Tsunoda, Makihiko Ishitani, Yuichiro Sueoka, Koichi Osuka: “Analysis of sheepdog-type navigation for minimal sheep model”, Swarm 2019, pp.197-200, 2019.
 
