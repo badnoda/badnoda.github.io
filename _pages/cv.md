@@ -31,15 +31,15 @@ redirect_from:
 
 **共著論文(全て査読あり)**
 
- * Yuichiro Sueoka, Yusuke Tsunoda, Koichi Osuka: “Manipulation of the entire group navigation based on dynamic goal-preference switching”, Artificial Life and Robotics, Vol. 24, No. 1, pp. 88-93, 2019.
+ * Yuichiro Sueoka, Yusuke Tsunoda, Koichi Osuka: “Manipulation of the entire group navigation based on dynamic goal-preference switching”, Artificial Life and Robotics, Vol. 24, No. 1, pp. 88-93, 2019 [https://link.springer.com/article/10.1007%2Fs10015-018-0464-8](https://link.springer.com/article/10.1007%2Fs10015-018-0464-8).
 
- * Tomoha Kida, Yuichiro Sueoka, Hiro Shigeyoshi, Yusuke Tsunoda, Yasuhiro Sugimoto, and Koichi Osuka, “Verification of Acoustic-Wave-Oriented Simple State Estimation and Application to Swarm Navigation,” J. Robot. Mechatron., Vol.33, No.1, pp. 119-128, 2021.
+ * Tomoha Kida, Yuichiro Sueoka, Hiro Shigeyoshi, Yusuke Tsunoda, Yasuhiro Sugimoto, and Koichi Osuka, “Verification of Acoustic-Wave-Oriented Simple State Estimation and Application to Swarm Navigation,” J. Robot. Mechatron., Vol.33, No.1, pp. 119-128, 2021 [https://www.fujipress.jp/jrm/rb/robot003300010119/](https://www.fujipress.jp/jrm/rb/robot003300010119/).
 
- * 末岡 裕一郎, Dang Duy Khanh, 角田 祐輔, 杉本 靖博, 大須賀 公一: “障害物との相互作用を活用した音場によるロボットナビゲーションの解析と実機検証”，日本機械学会論文集, Vol. 87, No. 896, p. 20-00280, 2021.
+ * 末岡 裕一郎, Dang Duy Khanh, 角田 祐輔, 杉本 靖博, 大須賀 公一: “障害物との相互作用を活用した音場によるロボットナビゲーションの解析と実機検証”，日本機械学会論文集, Vol. 87, No. 896, p. 20-00280, 2021 [https://www.jstage.jst.go.jp/article/transjsme/87/896/87_20-00280/_article/-char/ja](https://www.jstage.jst.go.jp/article/transjsme/87/896/87_20-00280/_article/-char/ja).
 
 **解説記事**
 
- * 末岡 裕一郎，角田 祐輔: “シープドッグシステムから紐解くマルチエージェントシステムの制御”, 計測と制御, Vol. 59, No 2, pp.125-130 , 2020 (https://doi.org/10.11499/sicejl.59.125).
+ * 末岡 裕一郎，角田 祐輔: “シープドッグシステムから紐解くマルチエージェントシステムの制御”, 計測と制御, Vol. 59, No 2, pp.125-130 , 2020 [https://www.jstage.jst.go.jp/article/sicejl/59/2/59_125/_article/-char/ja/](https://doi.org/10.11499/sicejl.59.125).
 
 **国際学会(筆頭)(全て査読あり)**
 
