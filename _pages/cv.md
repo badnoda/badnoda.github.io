@@ -43,7 +43,7 @@ redirect_from:
 
 **国際学会(筆頭)(全て査読あり)**
 
- * Yusuke Tsunoda, Yuichiro Sueoka, Koichi Osuka: “On statistical analysis for shepherd guidance system”, Proc. of IEEE International Conference on Robotics and Biomimetics (ROBIO2017), 2017.
+ * Yusuke Tsunoda, Yuichiro Sueoka, Koichi Osuka: “On statistical analysis for shepherd guidance system”, Proc. of IEEE International Conference on Robotics and Biomimetics (ROBIO2017), 2017 [https://ieeexplore.ieee.org/document/8324588](https://ieeexplore.ieee.org/document/8324588).
 
  * Yusuke Tsunoda, Makihiko Ishitani, Yuichiro Sueoka, Koichi Osuka : “Analysis of sheepdog-type navigation for a sheep model with dynamics”, In The Twenty-Fourth International Symposium on Articial Life and Robotics (AROB 24th 2019), pp. 499-503, 2019.
 
@@ -51,9 +51,9 @@ redirect_from:
 
  * Yusuke Tsunoda, Makihiko Ishitani, Yuichiro Sueoka, Koichi Osuka: “Analysis of sheepdog-type navigation for minimal sheep model”, Swarm 2019, pp.197-200, 2019.
 
- * Yusuke Tsunoda, Yuichiro Sueoka, Teruyo Wada, Koichi Osuka: “Sheepdog-type robot navigation: Experimental verification based on a linear model”, Proceedings of the 2020 IEEE/SICE International Symposium on System Integration, pp.1144-1149, 2020.
+ * Yusuke Tsunoda, Yuichiro Sueoka, Teruyo Wada, Koichi Osuka: “Sheepdog-type robot navigation: Experimental verification based on a linear model”, Proceedings of the 2020 IEEE/SICE International Symposium on System Integration, pp.1144-1149, 2020 [https://ieeexplore.ieee.org/document/9026218](https://ieeexplore.ieee.org/document/9026218).
 
- * Yusuke Tsunoda, Mitsuki Okada, Yuichiro Sueoka, Koichi Osuka : “Proposal of minimal approach on swarm navigation with heterogeneity”, Dars-Swarm 2021, pp.130-133, 2021 (査読有).
+ * Yusuke Tsunoda, Mitsuki Okada, Yuichiro Sueoka, Koichi Osuka : “Proposal of minimal approach on swarm navigation with heterogeneity”, Dars-Swarm 2021, pp.130-133, 2021.
 
 
 **国内学会(筆頭)(全て査読なし)**
