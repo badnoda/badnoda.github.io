@@ -15,7 +15,7 @@ locale                   : "ja_JP"
 title                    : "Yusuke Tsunoda"
 title_separator          : "-"
 name                     : &name "Yusuke Tsunoda"
-description              : &description "Project Assistant Professor of MOONSHOT project/Research interest : Swarm Robotics, Collective behavior, Swarm intelligence, Sheepdog-type group robots navigation"
+description              : &description "Assistant Professor of University of Hyogo/Research interest : Swarm Robotics, Collective behavior, Swarm intelligence, Sheepdog-type group robots navigation"
 url                      : https://badnoda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "badnoda/badnoda.github.io"
@@ -88,11 +88,11 @@ author:
   name             : "Yusuke Tsunoda"
   avatar           : "jibun.jpg"
   bio              : "Project Assistant Professor of MOONSHOT project/Research interest : Swarm Robotics, Collective behavior, Swarm intelligence, Sheepdog-type group robots navigation"
-  location         : "Osaka University"
+  location         : "University of Hyogo"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=B0cOaRQAAAAJ&hl=ja"
-  email            : "y.tsunoda@mech.eng.osaka-u.ac.jp"
+  email            : "tsunoda@eng.u-hyogo.ac.jp"
   researchgate     : "https://www.researchgate.net/profile/Yusuke-Tsunoda"
   uri              :
   bitbucket        :
