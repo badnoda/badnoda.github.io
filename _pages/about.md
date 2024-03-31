@@ -31,7 +31,6 @@ I am interested in control design of group robots, collective behavior of swarm 
 - ORCID: [0000-0003-1149-7721](https://orcid.org/0000-0003-1149-7721)
 - [Twitter](https://twitter.com/badnoda)
 - [Dynamics Systems Cotnrol Laboratory](https://www-dsc-mech.eng.osaka-u.ac.jp/)
-- [Dynamics Systems Cotnrol Laboratory](https://www-dsc-mech.eng.osaka-u.ac.jp/)
 
 ### Keywords
 - Swarm Robotics, Multi-agent system, Collective behavior, Swarm intelligence, Sheepdog-type group robots navigation, Navigation method in unknown environment, Implicit-Explicit control theory
