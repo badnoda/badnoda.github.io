@@ -13,7 +13,7 @@ I am interested in control design of group robots, collective behavior of swarm 
 
 ### Personal information
 
-- **Birth year & place:** 1992, Kumamoto, Japan
+- **Birth year & place:** 1992/10/08, Kumamoto, Japan
 
 - **Affiliation:**
   - 2018/04~2019/03  Ph.D course in Dynamical Systems Control Laboratory, Dept. of Mechanical Engineering, Graduate School of Engineering, Osaka University, Japan
