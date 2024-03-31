@@ -22,7 +22,7 @@ I am interested in control design of group robots, collective behavior of swarm 
   - 2024/04~  Assistant Professor at University of Hyogo. 
 
 <!-- - **e-mail:** [y.tsunoda(at)mech.eng.osaka-u.ac.jp](mailto:y.tsunoda@mech.eng.osaka-u.ac.jp) -->
-- **e-mail:** [ tsunoda(at)eng.u-hyogo.ac.jp](mailto:tsunoda@eng.u-hyogo.ac.jp)
+- **e-mail:** [tsunoda(at)eng.u-hyogo.ac.jp](mailto:tsunoda@eng.u-hyogo.ac.jp)
 
 ### Links
 - [Google Scholar Citations](https://scholar.google.com/citations?user=B0cOaRQAAAAJ&hl=ja)
@@ -30,6 +30,7 @@ I am interested in control design of group robots, collective behavior of swarm 
 - [ResearchGate](https://www.researchgate.net/profile/Yusuke-Tsunoda)
 - ORCID: [0000-0003-1149-7721](https://orcid.org/0000-0003-1149-7721)
 - [Twitter](https://twitter.com/badnoda)
+- [Dynamics Systems Cotnrol Laboratory](https://www-dsc-mech.eng.osaka-u.ac.jp/)
 - [Dynamics Systems Cotnrol Laboratory](https://www-dsc-mech.eng.osaka-u.ac.jp/)
 
 ### Keywords
