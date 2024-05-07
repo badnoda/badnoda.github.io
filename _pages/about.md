@@ -28,7 +28,7 @@ I am interested in control design of group robots, collective behavior of swarm 
 - [Google Scholar Citations](https://scholar.google.com/citations?user=B0cOaRQAAAAJ&hl=ja)
 - [Researchmap](https://researchmap.jp/badnoda)
 - [ResearchGate](https://www.researchgate.net/profile/Yusuke-Tsunoda)
-- ORCID: [0000-0003-1149-7721](https://orcid.org/0000-0003-1149-7721)
+- [ORCID](https://orcid.org/0000-0003-1149-7721)
 - [Twitter](https://twitter.com/badnoda)
 - [Dynamics Systems Cotnrol Laboratory](https://www-dsc-mech.eng.osaka-u.ac.jp/)
 
