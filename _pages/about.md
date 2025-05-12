@@ -25,8 +25,7 @@ I am interested in control design of group robots, collective behavior of swarm 
 - **e-mail:** [tsunoda(at)eng.u-hyogo.ac.jp](mailto:tsunoda@eng.u-hyogo.ac.jp)
 
 ### Links
-<!-- - [兵庫県立大学 角田研究室/Tsunoda Lab. University of Hyogo](https://sites.google.com/view/tsunoda-lab-fsr) -->
-あいうえお
+- [兵庫県立大学 角田研究室/Tsunoda Lab. University of Hyogo](https://sites.google.com/view/tsunoda-lab-fsr)
 - [Google Scholar Citations](https://scholar.google.com/citations?user=B0cOaRQAAAAJ&hl=ja)
 - [Researchmap](https://researchmap.jp/badnoda)
 - [ResearchGate](https://www.researchgate.net/profile/Yusuke-Tsunoda)
