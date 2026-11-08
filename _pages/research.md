@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+[English version](/en/research/)
+
 角田研究室（兵庫県立大学 Field Swarm Robotics）では，**過酷な環境下でも「立ち往生しない」群ロボットシステム**の実現を目指し，制御理論・生物模倣・実機開発を組み合わせた研究を行っています．
 
 ## 1. シープドッグシステム（Shepherding）に学ぶ群誘導制御

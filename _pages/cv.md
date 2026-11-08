@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[English version](/en/cv/)
+
 *最終更新：2026年11月（[researchmap](https://researchmap.jp/badnoda) の登録情報に基づく）*
 
 **現職**

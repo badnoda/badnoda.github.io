@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor at the Department of Mechanical Engineering, Graduate School of Engineering, University of Hyogo, where I lead the **Tsunoda Lab (Field Swarm Robotics)**.
 My research aims to build swarm robot systems that keep working in harsh, unstructured environments: control design of group robots inspired by sheepdog shepherding, collective behavior of swarm systems, and multi-legged / bio-inspired robots for disaster response in unknown environments.
 
-*Last updated: November 2026 (synchronized with [researchmap](https://researchmap.jp/badnoda)).*
+*Last updated: November 2026 (synchronized with [researchmap](https://researchmap.jp/badnoda)). English pages: [Research](/en/research/) · [CV](/en/cv/) / 日本語: [研究](/research/) · [業績](/cv/)*
 
 ### Highlights
 
