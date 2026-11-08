@@ -39,20 +39,19 @@ author_profile: true
 
 ## Awards
 * Best Paper Award, International Conference on Advanced Mechatronic Systems (ICAMechS 2026), "Data-Driven Robust Servo-Regulator Trade-off Design of Fractional-Order PID Controllers in the Frequency Domain", Sep. 2026.
-* SICE Control Division Multi-Symposium Award (Technology), "Control of heart rate and heart rate variability by dual-rate data-driven control", T. Sato, Y. Kawahara, Y. Tsunoda, et al., Mar. 2026.
-* Excellent Presentation Award, 26th SICE System Integration Division Annual Conference (SI2025), "Robotic-Shepherding System: indirect control of animal groups inspired by sheepdog herding — guidance experiments with a rough-terrain mobile robot", Y. Tsunoda, N. Korekawa, Y. Sueoka, T. Wada, K. Osuka, T. Sato, Dec. 2025.
-* Excellent Presentation Award, SI2025, "Outdoor verification of BRAINS, a separable/combinable robot group system based on open design", K. Naniwa, T. Katayama, Y. Tsunoda, K. Osuka, Dec. 2025.
+* SICE Control Division Multi-Symposium Award (Technology), T. Sato, Y. Kawahara, Y. Tsunoda, et al., Mar. 2026.
+* Excellent Presentation Award, 26th SICE System Integration Division Annual Conference (SI2025), Y. Tsunoda, N. Korekawa, Y. Sueoka, T. Wada, K. Osuka, T. Sato, Dec. 2025.
+* Excellent Presentation Award, SI2025, K. Naniwa, T. Katayama, Y. Tsunoda, K. Osuka, Dec. 2025.
 * Best Presentation Award, 19th International Conference on Innovative Computing, Information and Control (ICICIC), "Design and Experimental Validation of a Heart Rate Control System Based on Subject Data", T. Sato, Y. Kawahara, Y. Tsunoda, Oct. 2025.
-* SICE Kansai Section FY2023 Section Chair's Encouragement Award, Y. Tsunoda, "Heterogeneous swarm control learned from sheepdog systems: a bidirectional approach between engineering and science", Jan. 2024.
-* Excellent Presentation Award, 23rd SICE System Integration Division Annual Conference (SI2022), "Root-Anchor: a plant-root-inspired anchor for soft ground (2nd report)", Y. Tsunoda, S. Otsuka, Y. Sato, K. Naniwa, K. Osuka, Dec. 2022.
-* Excellent Presentation Award, SI2022, "Prototype of i-CentiPot-Ammonite, a bidirectionally extending hose-type robot using a telescopic hose", Y. Tsunoda, K. Naniwa, K. Osuka, Dec. 2022.
+* SICE Kansai Section FY2023 Section Chair's Encouragement Award, Y. Tsunoda, Jan. 2024.
+* Excellent Presentation Award, 23rd SICE System Integration Division Annual Conference (SI2022), Y. Tsunoda, S. Otsuka, Y. Sato, K. Naniwa, K. Osuka, Dec. 2022.
+* Excellent Presentation Award, SI2022, Y. Tsunoda, K. Naniwa, K. Osuka, Dec. 2022.
 * Lightning Award, Student Lightning Talk, Measurement and Control Show 2022 OSAKA (Osuka–Sugimoto Lab., Osaka University), Oct. 2022.
-* ISCIE Paper Award (FY2022), "Design of mobile control for multiple agents inspired by sheepdog shepherding and its verification", Y. Tsunoda, Y. Sueoka, T. Wada, K. Osuka, May 2022.
+* ISCIE Paper Award (FY2022), Y. Tsunoda, Y. Sueoka, T. Wada, K. Osuka, May 2022.
 * ISCIE Encouragement Award (FY2021), Y. Tsunoda, May 2021.
 * JSAE Graduate School Research Encouragement Award (FY2020), Society of Automotive Engineers of Japan, Y. Tsunoda, Mar. 2021.
 * Excellent Presentation Award, 21st SICE System Integration Division Annual Conference (SI2020), T. Hashimoto, Y. Tsunoda, Y. Sueoka, Y. Sugimoto, K. Osuka, Dec. 2020.
 * SCI Student Presentation Award, 64th Annual Conference of ISCIE (SCI'20), Y. Tsunoda, May 2020.
-* Overseas Paper Presentation Encouragement Award (2nd half of FY2019), Production Technology Promotion Association (Seisan Gijutsu Shinko Kyokai), Y. Tsunoda, Oct. 2019.
 * Excellent Presentation Award, 18th SICE System Integration Division Annual Conference (SI2017), Y. Tsunoda, Y. Sueoka, R. Takahashi, K. Osuka, Dec. 2017.
 * Best Presentation Award, 23rd SICE Symposium on Emergent Systems, Y. Tsunoda, Sep. 2017.
 
@@ -88,11 +87,8 @@ author_profile: true
 * The Japan Society of Mechanical Engineers (JSME)
 
 ## Selected invited talks
-* "Field swarm robotics: toward swarm robot systems that work in harsh environments", 62nd Science & Technology Club for Interdisciplinary Young Researchers, University of Hyogo, Nov. 2025.
 * "Development of robotic construction equipment for river channel blockages based on open design", Joint Symposium on Advanced Mechanical Science and Technology (JSAMST) 2024, Sep. 2024.
 * "Self-Organizing Modeling of Shepherding Controller using GMDH", Jun. 2023.
-* "Development of robots that innovate earthwork based on open design", invited lecture, Tadakuma Laboratory, Tohoku University, Apr. 2023.
-* "Controlling 100 with 1: scale-free heterogeneous swarm navigation learned from sheepdog systems", 3rd Brainware Engineering Workshop FY2022, RIEC, Tohoku University, Mar. 2022.
 
 ## Media coverage
 * Prototype disaster-response robots for river-channel blockages (developed with Osaka Institute of Technology and other collaborators) were featured on NHK "Hot Kansai" (Nov. 27, 2025) and in the Mainichi Shimbun (Osaka edition), Nikkan Kogyo Shimbun, Nikkan Kensetsu Kogyo Shimbun, and Nikkan Kensetsu Tsushin Shimbun (Dec. 2025).
